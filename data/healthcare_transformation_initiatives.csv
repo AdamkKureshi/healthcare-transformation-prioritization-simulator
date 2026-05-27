@@ -1,0 +1,9 @@
+Initiative_ID,Initiative_Name,Category,Estimated_Cost_USD,Expected_Benefit_USD,Success_Probability,Partial_Success_Probability,Failure_Probability,Success_Impact_USD,Partial_Success_Impact_USD,Failure_Impact_USD,Operational_Readiness_Score,Risk_Level,Strategic_Alignment,Implementation_Complexity,Time_To_Implement_Months
+HT-01,EMR Rollout,Digital Health,2500000,4000000,0.60,0.25,0.15,4000000,1200000,-1000000,55,High,High,High,24
+HT-02,Referral Management System,Care Coordination,1200000,2500000,0.70,0.20,0.10,2500000,800000,-300000,68,Medium,High,Medium,14
+HT-03,Workforce Scheduling Optimization,Workforce Management,450000,1000000,0.80,0.15,0.05,1000000,400000,-100000,82,Low,Medium,Low,6
+HT-04,Medicine Inventory Automation,Supply Chain,900000,1800000,0.72,0.18,0.10,1800000,600000,-250000,70,Medium,High,Medium,10
+HT-05,Telemedicine Expansion,Service Delivery,1500000,3200000,0.58,0.27,0.15,3200000,1000000,-500000,50,High,High,High,18
+HT-06,District Performance Dashboard,Analytics & Reporting,350000,900000,0.85,0.10,0.05,900000,300000,-50000,88,Low,High,Low,4
+HT-07,Training & LMS Integration,Capacity Building,600000,1400000,0.75,0.18,0.07,1400000,500000,-120000,78,Medium,Medium,Medium,8
+HT-08,Emergency Preparedness Coordination Platform,Health Security,1100000,2600000,0.65,0.20,0.15,2600000,900000,-400000,62,High,High,High,16
