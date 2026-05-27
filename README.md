@@ -296,43 +296,43 @@ streamlit run dashboard/app.py
 
 ## Executive Overview
 
-![Executive Overview](images/executive_overview_placeholder.png)
+![Executive Overview](images/executive_overview.png)
 
 ---
 
 ## Portfolio Analytics
 
-![Portfolio Analytics](images/portfolio_analytics_placeholder.png)
+![Portfolio Analytics](images/portfolio_analytics.png)
 
 ---
 
 ## Strategic Portfolio Map
 
-![Strategic Portfolio Map](images/strategic_portfolio_map_placeholder.png)
+![Strategic Portfolio Map](images/strategic_portfolio_map.png)
 
 ---
 
 ## Operational Maturity & Readiness
 
-![Operational Maturity](images/operational_maturity_placeholder.png)
+![Operational Maturity](images/operational_maturity.png)
 
 ---
 
 ## Budget-Constrained Portfolio Selection
 
-![Budget Selection](images/budget_selection_placeholder.png)
+![Budget Selection](images/budget_selection.png)
 
 ---
 
 ## Monte Carlo Simulation
 
-![Monte Carlo Simulation](images/monte_carlo_placeholder.png)
+![Monte Carlo Simulation](images/monte_carlo.png)
 
 ---
 
 ## Interactive Dependency Network
 
-![Interactive Dependency Network](images/interactive_network_placeholder.png)
+![Interactive Dependency Network](images/interactive_network.png)
 
 ---
 
