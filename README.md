@@ -30,7 +30,7 @@ The simulator is designed as an exploratory portfolio governance prototype rathe
 
 ## Live Demo
 
-[Open Streamlit App]([(https://healthcare-transformation-prioritization-simulator-mqvm9pahstw.streamlit.app/)])
+[Open Streamlit App](https://healthcare-transformation-prioritization-simulator-mqvm9pahstw.streamlit.app/)
 
 ---
 # Key Features
